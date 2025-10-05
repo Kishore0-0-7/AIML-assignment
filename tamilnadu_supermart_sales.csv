@@ -1,0 +1,186 @@
+InvoiceID,Date,StoreType,ProductCategory,City,State,CustomerType,UnitPrice,Quantity,Promotion,Total,DayOfWeek,IsWeekend,Month,HolidayFlag,CustomerRating,HighSales
+TN-INV-10019,2023-01-08,Supermarket Type1,Beverages,Coimbatore,Tamil Nadu,Regular,217.44,3,1,508.81,6,1,1,1,5,1
+TN-INV-10042,2023-02-17,Supermarket Type1,Snacks,Erode,Tamil Nadu,Occasional,305.36,2,1,476.36,4,0,2,0,5,1
+TN-INV-10156,2023-01-03,Supermarket Type2,Dairy,Madurai,Tamil Nadu,Premium,582.25,5,0,2911.25,1,0,1,1,4,1
+TN-INV-10111,2023-01-11,Grocery Store,Household,Coimbatore,Tamil Nadu,Premium,384.85,2,0,769.7,2,0,1,1,4,0
+TN-INV-10148,2023-01-16,Supermarket Type2,Dairy,Salem,Tamil Nadu,Premium,887.46,4,0,3549.84,0,0,1,1,4,1
+TN-INV-10015,2023-01-03,Hypermarket,Produce,Tirunelveli,Tamil Nadu,Regular,54.34,2,1,84.77,1,0,1,1,5,0
+TN-INV-10024,2023-01-10,Supermarket Type1,Dairy,Tirunelveli,Tamil Nadu,Regular,469.82,1,1,366.46,1,0,1,1,5,1
+TN-INV-10068,2023-02-05,Supermarket Type1,Bakery,Chennai,Tamil Nadu,Regular,159.83,2,1,249.33,6,1,2,0,5,1
+TN-INV-10117,2023-01-14,Hypermarket,Dairy,Salem,Tamil Nadu,Premium,828.73,5,1,3232.05,5,1,1,1,5,1
+TN-INV-10098,2023-01-10,Supermarket Type2,Dairy,Thoothukudi,Tamil Nadu,Occasional,424.52,2,0,849.04,1,0,1,1,3,0
+TN-INV-10097,2023-01-04,Supermarket Type1,Rice & Grains,Thanjavur,Tamil Nadu,Regular,151.95,5,1,592.61,2,0,1,1,5,1
+TN-INV-10163,2023-02-08,Supermarket Type2,Rice & Grains,Madurai,Tamil Nadu,Premium,232.0,2,0,464.0,2,0,2,0,4,0
+TN-INV-10069,2023-02-13,Supermarket Type1,Bakery,Madurai,Tamil Nadu,Premium,152.72,2,1,238.24,0,0,2,0,5,1
+TN-INV-10175,2023-01-02,Hypermarket,Bakery,Vellore,Tamil Nadu,Occasional,332.17,3,1,777.28,0,0,1,1,5,1
+TN-INV-10045,2023-01-23,Supermarket Type2,Produce,Madurai,Tamil Nadu,Occasional,89.45,6,0,536.7,0,0,1,1,3,0
+TN-INV-10016,2023-01-26,Supermarket Type1,Meat,Salem,Tamil Nadu,Premium,580.89,4,1,1812.38,3,0,1,1,5,1
+TN-INV-10051,2023-01-04,Supermarket Type1,Produce,Thanjavur,Tamil Nadu,Regular,267.64,5,1,1043.8,2,0,1,1,5,1
+TN-INV-10035,2023-01-12,Supermarket Type1,Produce,Chennai,Tamil Nadu,Premium,116.37,3,1,272.31,3,0,1,1,5,1
+TN-INV-10082,2023-01-01,Grocery Store,Bakery,Tirunelveli,Tamil Nadu,Occasional,298.85,4,1,932.41,6,1,1,1,5,1
+TN-INV-10056,2023-01-04,Grocery Store,Dairy,Coimbatore,Tamil Nadu,Regular,433.59,2,0,867.18,2,0,1,1,3,0
+TN-INV-10165,2023-01-21,Supermarket Type1,Produce,Chennai,Tamil Nadu,Regular,202.1,4,1,630.55,5,1,1,1,5,1
+TN-INV-10124,2023-01-01,Supermarket Type2,Rice & Grains,Coimbatore,Tamil Nadu,Regular,181.19,6,1,847.97,6,1,1,1,5,1
+TN-INV-10146,2023-01-14,Supermarket Type2,Dairy,Erode,Tamil Nadu,Occasional,291.49,2,1,454.72,5,1,1,1,5,1
+TN-INV-10030,2023-01-05,Supermarket Type1,Produce,Tiruchirappalli,Tamil Nadu,Occasional,208.81,4,1,651.49,3,0,1,1,5,1
+TN-INV-10009,2023-01-13,Supermarket Type2,Beverages,Salem,Tamil Nadu,Premium,384.89,2,1,600.43,4,0,1,1,5,1
+TN-INV-10126,2023-01-16,Supermarket Type1,Spices,Madurai,Tamil Nadu,Premium,566.11,4,1,1766.26,0,0,1,1,5,1
+TN-INV-10060,2023-01-11,Supermarket Type1,Meat,Chennai,Tamil Nadu,Premium,405.4,3,1,948.64,2,0,1,1,5,1
+TN-INV-10018,2023-01-05,Grocery Store,Beverages,Madurai,Tamil Nadu,Premium,369.51,3,1,864.65,3,0,1,1,5,1
+TN-INV-10170,2023-02-18,Grocery Store,Rice & Grains,Salem,Tamil Nadu,Occasional,216.18,6,0,1297.08,5,1,2,0,3,0
+TN-INV-10113,2023-01-05,Supermarket Type1,Beverages,Tirunelveli,Tamil Nadu,Premium,97.26,2,1,151.73,3,0,1,1,5,1
+TN-INV-10075,2023-01-23,Grocery Store,Rice & Grains,Chennai,Tamil Nadu,Premium,172.7,3,0,518.1,0,0,1,1,4,0
+TN-INV-10055,2023-01-04,Supermarket Type1,Snacks,Erode,Tamil Nadu,Regular,178.23,3,1,417.06,2,0,1,1,5,1
+TN-INV-10119,2023-01-11,Hypermarket,Beverages,Madurai,Tamil Nadu,Regular,209.37,3,1,489.93,2,0,1,1,5,1
+TN-INV-10135,2023-01-27,Supermarket Type1,Personal Care,Coimbatore,Tamil Nadu,Occasional,104.17,2,1,162.51,4,0,1,1,5,1
+TN-INV-10066,2023-01-09,Grocery Store,Personal Care,Madurai,Tamil Nadu,Regular,263.92,4,0,1055.68,0,0,1,1,3,1
+TN-INV-10029,2023-01-02,Grocery Store,Household,Chennai,Tamil Nadu,Occasional,246.15,3,0,738.45,0,0,1,1,3,0
+TN-INV-10176,2023-01-05,Supermarket Type2,Bakery,Thanjavur,Tamil Nadu,Regular,240.33,4,1,749.83,3,0,1,1,5,1
+TN-INV-10065,2023-01-20,Hypermarket,Beverages,Madurai,Tamil Nadu,Regular,212.83,1,1,166.01,4,0,1,1,5,1
+TN-INV-10067,2023-01-11,Grocery Store,Produce,Tiruchirappalli,Tamil Nadu,Regular,221.01,5,0,1105.05,2,0,1,1,3,0
+TN-INV-10031,2023-02-15,Supermarket Type1,Bakery,Salem,Tamil Nadu,Regular,337.95,2,1,527.2,2,0,2,0,5,1
+TN-INV-10012,2023-01-16,Grocery Store,Household,Tiruchirappalli,Tamil Nadu,Occasional,324.25,1,0,324.25,0,0,1,1,3,0
+TN-INV-10041,2023-01-01,Grocery Store,Produce,Erode,Tamil Nadu,Occasional,236.64,5,1,922.9,6,1,1,1,5,1
+TN-INV-10136,2023-01-12,Supermarket Type1,Produce,Vellore,Tamil Nadu,Premium,247.58,3,1,579.34,3,0,1,1,5,1
+TN-INV-10090,2023-01-05,Supermarket Type1,Dairy,Thoothukudi,Tamil Nadu,Regular,502.04,3,1,1174.77,3,0,1,1,5,1
+TN-INV-10147,2023-02-10,Supermarket Type1,Beverages,Salem,Tamil Nadu,Regular,348.68,2,1,543.94,4,0,2,0,5,1
+TN-INV-10104,2023-04-03,Grocery Store,Spices,Salem,Tamil Nadu,Regular,591.51,2,0,1183.02,0,0,4,1,3,0
+TN-INV-10109,2023-03-31,Supermarket Type1,Bakery,Madurai,Tamil Nadu,Regular,372.69,4,1,1162.79,4,0,3,0,5,1
+TN-INV-10038,2023-01-08,Grocery Store,Bakery,Chennai,Tamil Nadu,Premium,132.57,1,1,103.4,6,1,1,1,5,1
+TN-INV-10120,2023-01-16,Supermarket Type1,Bakery,Chennai,Tamil Nadu,Premium,250.2,5,1,975.78,0,0,1,1,5,1
+TN-INV-10096,2023-01-20,Supermarket Type2,Produce,Tiruchirappalli,Tamil Nadu,Premium,243.07,3,0,729.21,4,0,1,1,4,0
+TN-INV-10076,2023-01-14,Supermarket Type2,Rice & Grains,Coimbatore,Tamil Nadu,Premium,180.91,6,1,846.66,5,1,1,1,5,1
+TN-INV-10159,2023-01-19,Supermarket Type2,Beverages,Tiruchirappalli,Tamil Nadu,Premium,406.18,5,1,1584.1,3,0,1,1,5,1
+TN-INV-10002,2023-01-09,Supermarket Type2,Personal Care,Thanjavur,Tamil Nadu,Occasional,516.77,5,0,2583.85,0,0,1,1,3,1
+TN-INV-10133,2023-02-11,Hypermarket,Household,Chennai,Tamil Nadu,Occasional,115.13,3,1,269.4,5,1,2,0,5,1
+TN-INV-10046,2023-01-03,Supermarket Type2,Dairy,Chennai,Tamil Nadu,Premium,614.73,1,0,614.73,1,0,1,1,4,0
+TN-INV-10173,2023-01-01,Grocery Store,Spices,Tiruchirappalli,Tamil Nadu,Regular,256.9,3,1,601.15,6,1,1,1,5,1
+TN-INV-10155,2023-01-01,Supermarket Type1,Household,Coimbatore,Tamil Nadu,Premium,252.17,4,1,786.77,6,1,1,1,5,1
+TN-INV-10085,2023-01-26,Supermarket Type1,Produce,Chennai,Tamil Nadu,Occasional,81.14,3,1,189.87,3,0,1,1,5,1
+TN-INV-10150,2023-01-01,Supermarket Type2,Produce,Tiruchirappalli,Tamil Nadu,Occasional,233.67,2,1,364.53,6,1,1,1,5,0
+TN-INV-10026,2023-03-04,Grocery Store,Bakery,Coimbatore,Tamil Nadu,Occasional,248.88,4,1,776.51,5,1,3,0,5,1
+TN-INV-10158,2023-01-31,Grocery Store,Snacks,Chennai,Tamil Nadu,Premium,250.38,2,1,390.59,1,0,1,1,5,1
+TN-INV-10177,2023-01-18,Supermarket Type1,Snacks,Tirunelveli,Tamil Nadu,Occasional,47.49,2,1,74.08,2,0,1,1,5,0
+TN-INV-10115,2023-02-07,Supermarket Type2,Spices,Tiruchirappalli,Tamil Nadu,Premium,872.67,3,0,2618.01,1,0,2,0,4,1
+TN-INV-10078,2023-02-27,Supermarket Type2,Produce,Thoothukudi,Tamil Nadu,Premium,129.6,3,0,388.8,0,0,2,0,4,0
+TN-INV-10036,2023-01-14,Supermarket Type1,Personal Care,Coimbatore,Tamil Nadu,Premium,519.21,6,1,2429.9,5,1,1,1,5,1
+TN-INV-10128,2023-01-27,Supermarket Type1,Beverages,Madurai,Tamil Nadu,Occasional,39.6,4,1,123.55,4,0,1,1,5,1
+TN-INV-10022,2023-01-19,Hypermarket,Snacks,Vellore,Tamil Nadu,Occasional,324.69,1,1,253.26,3,0,1,1,5,0
+TN-INV-10108,2023-01-24,Grocery Store,Household,Madurai,Tamil Nadu,Occasional,322.52,3,0,967.56,1,0,1,1,3,0
+TN-INV-10122,2023-01-01,Grocery Store,Bakery,Thoothukudi,Tamil Nadu,Premium,404.06,2,1,630.33,6,1,1,1,5,1
+TN-INV-10114,2023-01-21,Supermarket Type1,Household,Chennai,Tamil Nadu,Regular,342.83,2,1,534.81,5,1,1,1,5,1
+TN-INV-10011,2023-01-30,Hypermarket,Meat,Tiruchirappalli,Tamil Nadu,Occasional,359.15,4,1,1120.55,0,0,1,1,5,1
+TN-INV-10180,2023-02-02,Supermarket Type2,Bakery,Chennai,Tamil Nadu,Regular,304.23,2,0,608.46,3,0,2,0,3,0
+TN-INV-10145,2023-01-06,Supermarket Type1,Snacks,Erode,Tamil Nadu,Premium,91.75,3,1,214.69,4,0,1,1,5,1
+TN-INV-10006,2023-01-16,Supermarket Type1,Produce,Chennai,Tamil Nadu,Regular,264.51,7,1,1444.22,0,0,1,1,5,1
+TN-INV-10027,2023-01-06,Supermarket Type2,Rice & Grains,Coimbatore,Tamil Nadu,Regular,205.02,4,0,820.08,4,0,1,1,3,0
+TN-INV-10093,2023-01-08,Supermarket Type1,Produce,Salem,Tamil Nadu,Occasional,200.09,2,1,312.14,6,1,1,1,5,1
+TN-INV-10004,2023-02-02,Supermarket Type2,Meat,Coimbatore,Tamil Nadu,Premium,687.06,2,0,1374.12,3,0,2,0,4,1
+TN-INV-10032,2023-01-08,Supermarket Type2,Dairy,Tiruchirappalli,Tamil Nadu,Occasional,625.38,2,1,975.59,6,1,1,1,5,1
+TN-INV-10100,2023-01-06,Supermarket Type2,Dairy,Chennai,Tamil Nadu,Premium,567.37,2,0,1134.74,4,0,1,1,4,1
+TN-INV-10143,2023-01-31,Supermarket Type2,Meat,Madurai,Tamil Nadu,Premium,308.11,2,0,616.22,1,0,1,1,4,0
+TN-INV-10101,2023-01-23,Grocery Store,Household,Vellore,Tamil Nadu,Premium,479.86,3,0,1439.58,0,0,1,1,4,0
+TN-INV-10168,2023-01-06,Supermarket Type2,Personal Care,Tirunelveli,Tamil Nadu,Regular,302.57,3,0,907.71,4,0,1,1,3,0
+TN-INV-10010,2023-03-09,Grocery Store,Snacks,Chennai,Tamil Nadu,Occasional,283.8,2,0,567.6,3,0,3,0,3,0
+TN-INV-10118,2023-01-08,Supermarket Type1,Household,Madurai,Tamil Nadu,Regular,118.81,5,1,463.36,6,1,1,1,5,1
+TN-INV-10132,2023-01-22,Supermarket Type1,Produce,Chennai,Tamil Nadu,Regular,205.75,5,1,802.43,6,1,1,1,5,1
+TN-INV-10000,2023-01-15,Grocery Store,Produce,Vellore,Tamil Nadu,Regular,69.84,5,1,272.38,6,1,1,1,5,1
+TN-INV-10139,2023-02-07,Supermarket Type2,Beverages,Erode,Tamil Nadu,Regular,74.12,6,0,444.72,1,0,2,0,3,0
+TN-INV-10070,2023-01-28,Grocery Store,Produce,Tirunelveli,Tamil Nadu,Premium,110.43,4,1,344.54,5,1,1,1,5,1
+TN-INV-10095,2023-01-25,Supermarket Type2,Bakery,Chennai,Tamil Nadu,Regular,292.21,3,1,683.77,2,0,1,1,5,1
+TN-INV-10064,2023-01-06,Grocery Store,Household,Madurai,Tamil Nadu,Premium,232.07,2,0,464.14,4,0,1,1,4,0
+TN-INV-10044,2023-01-05,Supermarket Type1,Dairy,Madurai,Tamil Nadu,Regular,339.54,1,1,264.84,3,0,1,1,5,1
+TN-INV-10152,2023-01-28,Supermarket Type2,Dairy,Chennai,Tamil Nadu,Premium,464.3,4,1,1448.62,5,1,1,1,5,1
+TN-INV-10028,2023-05-22,Grocery Store,Spices,Salem,Tamil Nadu,Occasional,145.63,3,0,436.89,0,0,5,0,3,0
+TN-INV-10040,2023-01-22,Supermarket Type1,Bakery,Vellore,Tamil Nadu,Regular,169.27,4,1,528.12,6,1,1,1,5,1
+TN-INV-10141,2023-01-05,Supermarket Type2,Household,Erode,Tamil Nadu,Premium,378.98,4,0,1515.92,3,0,1,1,4,1
+TN-INV-10142,2023-01-04,Hypermarket,Spices,Thoothukudi,Tamil Nadu,Occasional,358.13,3,1,838.02,2,0,1,1,5,1
+TN-INV-10025,2023-02-05,Supermarket Type2,Meat,Tirunelveli,Tamil Nadu,Regular,677.35,3,0,2032.05,6,1,2,0,3,1
+TN-INV-10023,2023-01-07,Supermarket Type2,Spices,Madurai,Tamil Nadu,Premium,238.18,3,1,557.34,5,1,1,1,5,1
+TN-INV-10137,2023-02-03,Supermarket Type1,Produce,Coimbatore,Tamil Nadu,Occasional,71.19,3,0,213.57,4,0,2,0,4,0
+TN-INV-10081,2023-02-04,Supermarket Type2,Produce,Erode,Tamil Nadu,Premium,194.6,4,1,607.15,5,1,2,0,5,1
+TN-INV-10079,2023-02-04,Grocery Store,Personal Care,Thanjavur,Tamil Nadu,Premium,218.98,5,1,854.02,5,1,2,0,5,1
+TN-INV-10084,2023-01-19,Grocery Store,Produce,Chennai,Tamil Nadu,Premium,170.61,5,0,853.05,3,0,1,1,4,1
+TN-INV-10039,2023-01-06,Supermarket Type2,Produce,Chennai,Tamil Nadu,Occasional,193.23,3,0,579.69,4,0,1,1,3,0
+TN-INV-10112,2023-03-20,Supermarket Type2,Rice & Grains,Coimbatore,Tamil Nadu,Premium,136.62,3,0,409.86,0,0,3,0,4,0
+TN-INV-10086,2023-01-06,Supermarket Type2,Beverages,Chennai,Tamil Nadu,Regular,285.03,3,1,666.97,4,0,1,1,5,1
+TN-INV-10077,2023-01-06,Supermarket Type2,Beverages,Coimbatore,Tamil Nadu,Premium,60.87,3,1,142.44,4,0,1,1,5,1
+TN-INV-10183,2023-01-12,Grocery Store,Bakery,Erode,Tamil Nadu,Premium,323.69,3,1,757.43,3,0,1,1,5,1
+TN-INV-10154,2023-01-06,Supermarket Type1,Personal Care,Chennai,Tamil Nadu,Premium,573.16,2,1,894.13,4,0,1,1,5,1
+TN-INV-10047,2023-01-27,Supermarket Type2,Bakery,Madurai,Tamil Nadu,Premium,297.01,3,1,695.0,4,0,1,1,5,1
+TN-INV-10094,2023-01-01,Grocery Store,Dairy,Coimbatore,Tamil Nadu,Regular,289.97,3,1,678.53,6,1,1,1,5,1
+TN-INV-10140,2023-01-11,Grocery Store,Dairy,Tiruchirappalli,Tamil Nadu,Premium,472.45,5,0,2362.25,2,0,1,1,4,1
+TN-INV-10172,2023-01-07,Grocery Store,Beverages,Thoothukudi,Tamil Nadu,Regular,109.56,1,1,85.46,5,1,1,1,5,0
+TN-INV-10061,2023-01-13,Supermarket Type1,Produce,Madurai,Tamil Nadu,Regular,80.4,6,1,376.27,4,0,1,1,5,1
+TN-INV-10073,2023-02-04,Supermarket Type1,Beverages,Thoothukudi,Tamil Nadu,Regular,76.2,3,1,178.31,5,1,2,0,5,1
+TN-INV-10033,2023-01-18,Hypermarket,Rice & Grains,Chennai,Tamil Nadu,Premium,184.88,1,1,144.21,2,0,1,1,5,1
+TN-INV-10043,2023-01-03,Supermarket Type1,Personal Care,Erode,Tamil Nadu,Occasional,398.76,1,1,311.03,1,0,1,1,5,1
+TN-INV-10138,2023-02-21,Supermarket Type2,Produce,Thoothukudi,Tamil Nadu,Premium,218.9,3,0,656.7,1,0,2,0,4,0
+TN-INV-10144,2023-01-05,Hypermarket,Bakery,Coimbatore,Tamil Nadu,Premium,334.07,3,1,781.72,3,0,1,1,5,1
+TN-INV-10062,2023-01-08,Supermarket Type1,Bakery,Chennai,Tamil Nadu,Premium,312.27,4,1,974.28,6,1,1,1,5,1
+TN-INV-10182,2023-01-24,Supermarket Type1,Meat,Chennai,Tamil Nadu,Premium,450.39,2,1,702.61,1,0,1,1,5,1
+TN-INV-10123,2023-01-17,Supermarket Type1,Dairy,Coimbatore,Tamil Nadu,Regular,249.27,2,1,388.86,1,0,1,1,5,1
+TN-INV-10127,2023-01-18,Supermarket Type1,Produce,Coimbatore,Tamil Nadu,Regular,272.41,4,1,849.92,2,0,1,1,5,1
+TN-INV-10105,2023-01-03,Hypermarket,Beverages,Chennai,Tamil Nadu,Premium,404.72,3,1,947.04,1,0,1,1,5,1
+TN-INV-10053,2023-01-22,Grocery Store,Produce,Erode,Tamil Nadu,Regular,73.55,2,1,114.74,6,1,1,1,5,0
+TN-INV-10005,2023-03-13,Supermarket Type2,Household,Madurai,Tamil Nadu,Regular,178.44,3,0,535.32,0,0,3,0,3,0
+TN-INV-10125,2023-01-25,Grocery Store,Rice & Grains,Coimbatore,Tamil Nadu,Regular,175.49,4,0,701.96,2,0,1,1,3,0
+TN-INV-10166,2023-02-15,Grocery Store,Spices,Tiruchirappalli,Tamil Nadu,Premium,239.0,3,0,717.0,2,0,2,0,4,0
+TN-INV-10003,2023-03-13,Supermarket Type2,Personal Care,Tirunelveli,Tamil Nadu,Occasional,211.09,3,0,633.27,0,0,3,0,3,0
+TN-INV-10171,2023-01-13,Supermarket Type2,Produce,Chennai,Tamil Nadu,Occasional,136.99,3,0,410.97,4,0,1,1,3,0
+TN-INV-10049,2023-03-01,Supermarket Type2,Spices,Madurai,Tamil Nadu,Regular,448.83,2,0,897.66,2,0,3,0,3,0
+TN-INV-10080,2023-01-20,Supermarket Type2,Dairy,Coimbatore,Tamil Nadu,Premium,800.96,3,0,2402.88,4,0,1,1,4,1
+TN-INV-10034,2023-01-01,Supermarket Type2,Produce,Chennai,Tamil Nadu,Premium,158.79,3,1,371.57,6,1,1,1,5,1
+TN-INV-10007,2023-03-12,Grocery Store,Spices,Chennai,Tamil Nadu,Regular,257.09,3,0,771.27,6,1,3,0,3,0
+TN-INV-10110,2023-01-01,Supermarket Type2,Meat,Madurai,Tamil Nadu,Premium,355.06,2,1,553.89,6,1,1,1,5,1
+TN-INV-10091,2023-01-06,Supermarket Type1,Produce,Coimbatore,Tamil Nadu,Occasional,170.22,3,1,398.31,4,0,1,1,5,1
+TN-INV-10083,2023-01-12,Grocery Store,Dairy,Tiruchirappalli,Tamil Nadu,Premium,711.38,2,0,1422.76,3,0,1,1,4,1
+TN-INV-10162,2023-01-27,Grocery Store,Produce,Thoothukudi,Tamil Nadu,Premium,263.12,8,0,2104.96,4,0,1,1,4,1
+TN-INV-10167,2023-02-28,Grocery Store,Beverages,Chennai,Tamil Nadu,Regular,138.85,6,0,833.1,1,0,2,0,3,0
+TN-INV-10089,2023-01-01,Supermarket Type2,Beverages,Tiruchirappalli,Tamil Nadu,Occasional,155.79,2,1,243.03,6,1,1,1,5,0
+TN-INV-10008,2023-01-02,Supermarket Type1,Bakery,Chennai,Tamil Nadu,Premium,312.48,1,1,243.73,0,0,1,1,5,1
+TN-INV-10013,2023-01-12,Supermarket Type1,Dairy,Tiruchirappalli,Tamil Nadu,Occasional,588.0,1,1,458.64,3,0,1,1,5,1
+TN-INV-10059,2023-01-13,Supermarket Type1,Dairy,Tirunelveli,Tamil Nadu,Regular,328.09,3,1,767.73,4,0,1,1,5,1
+TN-INV-10164,2023-02-19,Grocery Store,Beverages,Erode,Tamil Nadu,Premium,241.8,4,1,754.42,6,1,2,0,5,1
+TN-INV-10131,2023-01-12,Supermarket Type2,Snacks,Erode,Tamil Nadu,Regular,76.76,2,1,119.75,3,0,1,1,5,0
+TN-INV-10017,2023-01-09,Supermarket Type1,Personal Care,Chennai,Tamil Nadu,Regular,523.95,2,1,817.36,0,0,1,1,5,1
+TN-INV-10072,2023-01-09,Supermarket Type2,Beverages,Chennai,Tamil Nadu,Occasional,245.31,2,1,382.68,0,0,1,1,5,0
+TN-INV-10161,2023-02-12,Supermarket Type1,Rice & Grains,Chennai,Tamil Nadu,Occasional,63.84,2,1,99.59,6,1,2,0,5,1
+TN-INV-10134,2023-02-22,Supermarket Type1,Rice & Grains,Coimbatore,Tamil Nadu,Occasional,56.08,4,0,224.32,2,0,2,0,4,0
+TN-INV-10153,2023-01-02,Grocery Store,Beverages,Thoothukudi,Tamil Nadu,Premium,201.73,2,1,314.7,0,0,1,1,5,0
+TN-INV-10169,2023-01-31,Grocery Store,Bakery,Tiruchirappalli,Tamil Nadu,Occasional,181.41,3,1,424.5,1,0,1,1,5,0
+TN-INV-10063,2023-01-19,Supermarket Type1,Bakery,Chennai,Tamil Nadu,Regular,293.17,1,1,228.67,3,0,1,1,5,1
+TN-INV-10054,2023-01-11,Supermarket Type1,Meat,Tirunelveli,Tamil Nadu,Regular,259.31,2,1,404.52,2,0,1,1,5,1
+TN-INV-10107,2023-02-02,Supermarket Type2,Dairy,Coimbatore,Tamil Nadu,Regular,487.41,2,0,974.82,3,0,2,0,3,0
+TN-INV-10050,2023-01-20,Supermarket Type1,Dairy,Coimbatore,Tamil Nadu,Regular,330.51,1,1,257.8,4,0,1,1,5,1
+TN-INV-10181,2023-01-14,Supermarket Type2,Spices,Vellore,Tamil Nadu,Regular,108.45,3,1,253.77,5,1,1,1,5,1
+TN-INV-10058,2023-01-30,Grocery Store,Bakery,Thoothukudi,Tamil Nadu,Regular,374.11,5,1,1459.03,0,0,1,1,5,1
+TN-INV-10048,2023-03-03,Grocery Store,Beverages,Madurai,Tamil Nadu,Occasional,64.91,3,0,194.73,4,0,3,0,3,0
+TN-INV-10088,2023-01-28,Supermarket Type1,Household,Tirunelveli,Tamil Nadu,Premium,100.01,4,1,312.03,5,1,1,1,5,1
+TN-INV-10021,2023-02-11,Grocery Store,Personal Care,Erode,Tamil Nadu,Regular,221.83,3,0,665.49,5,1,2,0,3,0
+TN-INV-10057,2023-01-12,Supermarket Type1,Household,Chennai,Tamil Nadu,Regular,262.26,4,1,818.25,3,0,1,1,5,1
+TN-INV-10160,2023-01-04,Supermarket Type2,Produce,Tiruchirappalli,Tamil Nadu,Premium,300.37,2,0,600.74,2,0,1,1,4,0
+TN-INV-10178,2023-01-01,Supermarket Type1,Meat,Chennai,Tamil Nadu,Premium,917.09,3,1,2145.99,6,1,1,1,5,1
+TN-INV-10129,2023-01-26,Grocery Store,Meat,Thoothukudi,Tamil Nadu,Occasional,131.8,3,0,395.4,3,0,1,1,3,0
+TN-INV-10037,2023-01-08,Grocery Store,Produce,Erode,Tamil Nadu,Occasional,84.1,3,1,196.79,6,1,1,1,5,0
+TN-INV-10157,2023-01-25,Grocery Store,Produce,Madurai,Tamil Nadu,Premium,248.38,3,0,745.14,2,0,1,1,4,0
+TN-INV-10174,2023-01-29,Supermarket Type2,Dairy,Madurai,Tamil Nadu,Regular,623.17,2,1,972.15,6,1,1,1,5,1
+TN-INV-10001,2023-01-28,Supermarket Type1,Dairy,Chennai,Tamil Nadu,Occasional,234.24,5,1,913.54,5,1,1,1,5,1
+TN-INV-10052,2023-01-16,Grocery Store,Personal Care,Vellore,Tamil Nadu,Regular,479.89,3,0,1439.67,0,0,1,1,3,0
+TN-INV-10149,2023-01-25,Supermarket Type2,Rice & Grains,Tirunelveli,Tamil Nadu,Occasional,217.84,5,0,1089.2,2,0,1,1,3,0
+TN-INV-10130,2023-01-14,Supermarket Type2,Produce,Thanjavur,Tamil Nadu,Regular,262.11,5,1,1022.23,5,1,1,1,5,1
+TN-INV-10151,2023-01-13,Supermarket Type2,Household,Tiruchirappalli,Tamil Nadu,Premium,445.53,2,0,891.06,4,0,1,1,4,0
+TN-INV-10103,2023-01-30,Supermarket Type1,Snacks,Thoothukudi,Tamil Nadu,Premium,362.56,1,1,282.8,0,0,1,1,5,1
+TN-INV-10099,2023-01-01,Grocery Store,Produce,Coimbatore,Tamil Nadu,Regular,238.31,5,1,929.41,6,1,1,1,5,1
+TN-INV-10116,2023-01-01,Supermarket Type1,Beverages,Salem,Tamil Nadu,Premium,308.02,1,1,240.26,6,1,1,1,5,1
+TN-INV-10087,2023-01-11,Hypermarket,Beverages,Salem,Tamil Nadu,Occasional,281.99,2,1,439.9,2,0,1,1,5,0
+TN-INV-10074,2023-01-07,Supermarket Type1,Rice & Grains,Chennai,Tamil Nadu,Premium,354.79,5,1,1383.68,5,1,1,1,5,1
+TN-INV-10121,2023-01-11,Supermarket Type2,Produce,Vellore,Tamil Nadu,Occasional,80.31,3,0,240.93,2,0,1,1,3,0
+TN-INV-10184,2023-01-15,Grocery Store,Produce,Chennai,Tamil Nadu,Regular,51.33,4,1,160.15,6,1,1,1,5,1
+TN-INV-10020,2023-01-10,Supermarket Type1,Personal Care,Chennai,Tamil Nadu,Regular,329.88,3,1,771.92,1,0,1,1,5,1
+TN-INV-10071,2023-01-03,Supermarket Type1,Household,Madurai,Tamil Nadu,Premium,396.53,3,1,927.88,1,0,1,1,5,1
+TN-INV-10106,2023-02-01,Hypermarket,Household,Madurai,Tamil Nadu,Occasional,161.41,3,0,484.23,2,0,2,0,4,0
+TN-INV-10014,2023-01-03,Supermarket Type2,Produce,Coimbatore,Tamil Nadu,Occasional,236.96,5,0,1184.8,1,0,1,1,3,0
+TN-INV-10092,2023-01-13,Hypermarket,Household,Thoothukudi,Tamil Nadu,Occasional,67.53,2,1,105.35,4,0,1,1,5,0
+TN-INV-10179,2023-01-14,Supermarket Type1,Personal Care,Coimbatore,Tamil Nadu,Occasional,464.49,3,1,1086.91,5,1,1,1,5,1
+TN-INV-10102,2023-01-01,Supermarket Type1,Beverages,Coimbatore,Tamil Nadu,Regular,49.7,2,1,77.53,6,1,1,1,5,1
